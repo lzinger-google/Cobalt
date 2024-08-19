@@ -13,6 +13,8 @@ This document records all notable changes made to Cobalt since the last release.
  - Android S Support
    - Extended compatibility to Android S
  - Leo's Changes
+   - Added Release Notes automation workflow
+   
 ### Updates / Improvements
  - Bundled ICU Data
    - Integrated ICU data directly into the Cobalt binary, reducing the overall compressed size
