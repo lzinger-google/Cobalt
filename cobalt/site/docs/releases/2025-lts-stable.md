@@ -1,7 +1,7 @@
 Project: /youtube/cobalt/_project.yaml
 Book: /youtube/cobalt/_book.yaml
 
-# [Sept 30st 2024] Cobalt 25.LTS.Stable Release
+# [Sept 30th 2024] Cobalt 25.LTS.Stable Release
 
 ## [Cobalt 25.lts.stable Release](https://developers.google.com/youtube/devices/living-room/cobalt/cobalt-evergreen-version-table)
 
