@@ -1,15 +1,15 @@
 Project: /youtube/cobalt/_project.yaml
 Book: /youtube/cobalt/_book.yaml
 
-# [Jul 1st 2024] Cobalt 25.LTS.Stable Release Candidate
+# [Sept 30st 2024] Cobalt 25.LTS.Stable Release
 
 ## [Cobalt 25.lts.stable Release](https://developers.google.com/youtube/devices/living-room/cobalt/cobalt-evergreen-version-table)
 
-The Cobalt team is thrilled to announce the RC (Release Candidate) of [Cobalt 25
-LTS 1](https://github.com/youtube/cobalt/releases/tag/25.lts.stable) !
+The Cobalt team is thrilled to announce the Stable Release of [Cobalt 25
+LTS 10](https://github.com/youtube/cobalt/releases/tag/25.lts.10) !
 
 Evergreen binaries are available on GitHub
-([5.1.2](https://github.com/youtube/cobalt/releases/tag/25.lts.stable))
+([5.10.2](https://github.com/youtube/cobalt/releases/tag/25.lts.10))
 
 Cobalt 25 LTS includes Starboard API version 16 for porters and its Stable
 release version will support all features that are required for 2025 YouTube
